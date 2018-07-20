@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gendersArray">
+        <item>Fiction</item>
+        <item>Fantasy</item>
+        <item>Terror</item>
+        <item>Tragedy</item>
+        <item>Mythology</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>romance</item>
+        <item>Satire</item>
+        <item>Horror</item>
+    </string-array>
+</resources>
